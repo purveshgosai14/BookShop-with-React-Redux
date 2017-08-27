@@ -25,3 +25,4 @@ This will run the automated build process, start up a webserver, and open the ap
 3. **[Disable safe write in your editor](http://webpack.github.io/docs/webpack-dev-server.html#working-with-editors-ides-supporting-safe-write)** to assure hot reloading works properly.
 4. On a Mac? You're all set. If you're on Linux or Windows, complete the steps for your OS below.  
  
+ <h6> A project from Scotch.io *Thanks* <h6>
